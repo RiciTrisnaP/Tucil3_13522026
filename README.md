@@ -53,7 +53,9 @@ List the ready features here:
 - Buka terminal lalu clone repository ini dengan perintah
 
 `git clone https://github.com/RiciTrisnaP/Tucil3_13522026`
-- Masuk ke folder bin
+- Masuk ke repository lalu masuk ke folder bin
+
+`cd bin`
 - Ketik perintah berikut
 
 `java -jar WordLadder.jar`
