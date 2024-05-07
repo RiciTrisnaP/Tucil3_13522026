@@ -38,7 +38,12 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![UCS](./screenshots/ss1.png)
+
+![GBFS](./screenshots/ss2.png)
+
+![A*](./screenshots/ss3.png)
+
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
